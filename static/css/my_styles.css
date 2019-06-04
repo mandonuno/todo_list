@@ -1,0 +1,10 @@
+.cross {
+    text-decoration: line-through;
+}
+a {
+    color: #5e969e;
+}
+a:hover {
+    color: #697684;
+    text-decoration: none;
+}
